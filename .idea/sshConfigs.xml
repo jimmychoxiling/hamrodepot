@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="hardwarestore.appdemoserver.com" id="f71354a3-83df-4afa-95b8-3363f9b22fda" port="22" customName="hardware store" nameFormat="CUSTOM" username="hardwarestore">
+        <option name="customName" value="hardware store" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
